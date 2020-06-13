@@ -1,2 +1,2 @@
 ﻿# Blog_Project
-<image src="Demo_Project/Demo.mp4" >
+<img src='Demo_Project/Demo.mp4'>
